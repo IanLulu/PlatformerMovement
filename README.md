@@ -3,6 +3,8 @@ An SMB3 inspired movement and controls demo.
 
 ## Source: https://youtu.be/ZuKIUjw_tNU?si=R_z34MjVHr41aV9Q
 
+# to implement: https://github.com/NesHacker/PlatformerMovement/compare/main...video-production
+
 ## Contributing
 Find a bug? Think this could use a feature? Well then fork the repo and make a
 pull request. For the most part as long as you don't change anything core to the
